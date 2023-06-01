@@ -27,7 +27,7 @@ LinkedIn. [https://www.linkedin.com/in/yunkih/](https://www.linkedin.com/in/yunk
 
 ## Projects.
 
-![24HANE_icon](https://github.com/YunKi-H/RESUME/assets/80469941/74c4b8e4-7ef5-4ede-b409-eea2ad8d4d2f)
+![appicon](https://github.com/YunKi-H/RESUME/assets/80469941/74c4b8e4-7ef5-4ede-b409-eea2ad8d4d2f)
 
 ### [24HANE](https://github.com/ittzggd/24HANE_ver2)
 - 소개: 42Seoul 공식 체크인서비스
