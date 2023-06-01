@@ -1,6 +1,7 @@
 # 황윤기 | iOS 개발자
 
-![ProfileImg](https://github.com/YunKi-H/RESUME/assets/80469941/9ab18a92-247e-4467-a8ca-86ebb51ee042)
+![ProfileImg](https://github.com/YunKi-H/RESUME/assets/80469941/f6499aff-5e76-4fad-8b16-07f4554d44b1)
+
 
 ## Contact & Channels
 
