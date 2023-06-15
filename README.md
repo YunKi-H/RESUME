@@ -14,11 +14,11 @@ GitHub. [https://github.com/YunKi-H](https://github.com/YunKi-H)
 LinkedIn. [https://www.linkedin.com/in/yunkih/](https://www.linkedin.com/in/yunkih/)
 
 ## Experience.
-- [42Seoul](https://42seoul.kr/) (2021 ~ )
 
 ## Education.
+- [42Seoul](https://42seoul.kr/) (2021 ~ )
 - 학점은행제 컴퓨터공학 학사 (2021.03 - 2023.02)
-- 세종대학교 경영학과 중퇴 (2012.03 - 2016.09)
+<!-- - 세종대학교 경영학과 중퇴 (2012.03 - 2016.09) -->
 - 휘문고등학교 졸업 (2009.03 - 2012.02)
 
 ## Skill.
