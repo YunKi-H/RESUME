@@ -13,7 +13,7 @@ GitHub. [https://github.com/YunKi-H](https://github.com/YunKi-H)
 
 LinkedIn. [https://www.linkedin.com/in/yunkih/](https://www.linkedin.com/in/yunkih/)
 
-## Experience.
+<!-- ## Experience. -->
 
 ## Education.
 - [42Seoul](https://42seoul.kr/) (2021 ~ )
