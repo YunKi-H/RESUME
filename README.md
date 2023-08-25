@@ -17,7 +17,7 @@ LinkedIn. [https://www.linkedin.com/in/yunkih/](https://www.linkedin.com/in/yunk
 
 ## Education.
 - [42Seoul](https://42seoul.kr/) (2021 ~ )
-- 학점은행제 컴퓨터공학 학사 (2021.03 - 2023.02)
+- 한양대학교 미래인재교육원 컴퓨터공학 학사 (2021.03 - 2023.02)
 <!-- - 세종대학교 경영학과 중퇴 (2012.03 - 2016.09) -->
 - 휘문고등학교 졸업 (2009.03 - 2012.02)
 
