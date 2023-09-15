@@ -34,3 +34,6 @@ LinkedIn. [https://www.linkedin.com/in/yunkih/](https://www.linkedin.com/in/yunk
 - 소개: 42Seoul 공식 체크인서비스
 - MVVM 기반 구조 설계, 구현
 - 기간 : 2023.02 ~ 2023.03
+
+## 병역
+2017-04-20 ~ 2019-04-04 공익근무 소집해제
