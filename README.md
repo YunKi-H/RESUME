@@ -37,3 +37,7 @@ LinkedIn. [https://www.linkedin.com/in/yunkih/](https://www.linkedin.com/in/yunk
 
 ## 병역
 2017-04-20 ~ 2019-04-04 공익근무 소집해제
+
+<!-- ## Awards
+- 2022 42Seoul Best Coalition cadet
+  약 1000명의 학생들이 직접 투표를 통해 선정한 우수 학생 -->
