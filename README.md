@@ -16,6 +16,7 @@ LinkedIn. [https://www.linkedin.com/in/yunkih/](https://www.linkedin.com/in/yunk
 <!-- ## Experience. -->
 
 ## Education.
+- [Apple Developer Academy @POSTECH](https://developeracademy.postech.ac.kr) (2024.03 ~ 2024.12)
 - [42Seoul](https://42seoul.kr/) (2021 ~ )
 - 한양대학교 미래인재교육원 컴퓨터공학 학사 (2021.03 - 2023.02)
 <!-- - 세종대학교 경영학과 중퇴 (2012.03 - 2016.09) -->
@@ -39,5 +40,6 @@ LinkedIn. [https://www.linkedin.com/in/yunkih/](https://www.linkedin.com/in/yunk
 2017-04-20 ~ 2019-04-04 공익근무 소집해제
 
 <!-- ## Awards
-- 2022 42Seoul Best Coalition cadet
-  약 1000명의 학생들이 직접 투표를 통해 선정한 우수 학생 -->
+- 2022 42Seoul Best Coalition cadet (2022.12)
+  약 1000명의 학생들이 직접 투표를 통해 선정한 우수 학생
+- 과학기술정보통신부 장관상 (24HANE) (2023.10) -->
