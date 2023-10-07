@@ -39,7 +39,8 @@ LinkedIn. [https://www.linkedin.com/in/yunkih/](https://www.linkedin.com/in/yunk
 ## 병역
 2017-04-20 ~ 2019-04-04 공익근무 소집해제
 
-<!-- ## Awards
+## Awards
 - 2022 42Seoul Best Coalition cadet (2022.12)
   약 1000명의 학생들이 직접 투표를 통해 선정한 우수 학생
-- 과학기술정보통신부 장관상 (24HANE) (2023.10) -->
+- 과학기술정보통신부 장관상 (24HANE) (2023.10)
+  42서울 교육생 구현 서비스 경진대회 대상
