@@ -16,16 +16,16 @@ LinkedIn. [https://www.linkedin.com/in/yunkih/](https://www.linkedin.com/in/yunk
 <!-- ## Experience. -->
 
 ## Education.
-- [Apple Developer Academy @POSTECH](https://developeracademy.postech.ac.kr) (2024.03 ~ 2024.12)
-- [42Seoul](https://42seoul.kr/) (2021 ~ )
+<!-- - [Apple Developer Academy @POSTECH](https://developeracademy.postech.ac.kr) (2024.03 ~ 2024.12) -->
+- [42Seoul](https://42seoul.kr/) 공통과정 수료 (2021 ~ )
 - 한양대학교 미래인재교육원 컴퓨터공학 학사 (2021.03 - 2023.02)
 <!-- - 세종대학교 경영학과 중퇴 (2012.03 - 2016.09) -->
 - 휘문고등학교 졸업 (2009.03 - 2012.02)
 
 ## Skill.
-- Language: C, C++, Swift
+- Language: Swift, C, C++
 - Framework: SwiftUI
-- Tool: Xcode, Git, Docker
+- Tool: Xcode, Git, Docker, Figma
 
 ## Projects.
 
@@ -36,8 +36,8 @@ LinkedIn. [https://www.linkedin.com/in/yunkih/](https://www.linkedin.com/in/yunk
 - MVVM 기반 구조 설계, 구현
 - 기간 : 2023.02 ~ 2023.03
 
-## 병역
-2017-04-20 ~ 2019-04-04 공익근무 소집해제
+<!-- ## 병역
+2017-04-20 ~ 2019-04-04 공익근무 소집해제 -->
 
 ## Awards
 - 2022 42Seoul Best Coalition cadet (2022.12)
