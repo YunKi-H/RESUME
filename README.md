@@ -18,7 +18,7 @@
 <!-- ## Experience. -->
 
 ## Education.
-<!-- - [Apple Developer Academy @POSTECH](https://developeracademy.postech.ac.kr) (2024.03 ~ 2024.12) -->
+- [Apple Developer Academy @POSTECH](https://developeracademy.postech.ac.kr) (2024.03 ~ 2024.12)
 <!-- - 세종대학교 경영학과 중퇴 (2012.03 - 2016.09) -->
 - [42Seoul](https://42seoul.kr/) 공통과정 수료 (2021 ~ )
 - 한양대학교 미래인재교육원 컴퓨터공학 학사 (2021.03 - 2023.02)
